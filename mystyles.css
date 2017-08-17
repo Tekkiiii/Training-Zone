@@ -1,0 +1,67 @@
+h1 {
+	text-align: center;
+	color: #f2f2f2;
+}
+body {
+	text-align: center;
+	color: black;
+	 background-image: url(Images/tzg.png);
+}
+table {	align:center;
+	
+}
+th, td {padding: 15px;
+}
+a:link{color: #0c7369;}
+a:visited {
+    color: #0c7369;
+    background-color: transparent;
+	text-decoration: none;
+}
+a:hover {background-color: #a6a59c; 
+	}
+	
+.textbox {
+	background-color: #fff8dc;
+	margin-left: 15em;
+	margin-right: 15em;
+	text-align: center;
+	font-size: 125%;
+	text-decoration: bold;
+	padding-bottom: 0.5px;
+	padding-top: 0.5px;
+	line-height: 5px;
+	height: auto;
+	box-sizing: border-box;
+	}
+	
+.content {
+	background-color: #fff8dc;
+	align: center;
+	margin-left: 15em;
+	margin-right: 15em;
+	height: auto;
+	text-align: left;
+	text-decoration: bold;
+	padding-bottom: 0.5px;
+	padding-top: 0.5px;
+	padding-left: 3em;
+	padding-right: 3em;
+	color: #0c7369;
+	box-sizing: border-box;
+	}
+	
+.content h2 {
+	color: #0c7369;
+	font-style: normal;
+	padding-left: 1em;
+	padding-right: 1em;
+	padding-top: 0.5em;	
+	padding-bottom: 0.5em;
+	background-color: #white;
+	text-align: center;
+	border-style:none;
+}
+
+
+</style>
